@@ -1,3 +1,3 @@
 # Otopark-OTOMASYONU
 
-C# Form
+C# Form ile bir otopark similasyonu canlandırılmıştır.
